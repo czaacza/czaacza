@@ -19,8 +19,6 @@ Please don't bother to contact me :
 - Discord: czacza#9789
 - [LinkedIn](https://www.linkedin.com/in/mateusz--czarnecki/)
 
-I warmly welcome you to look at my work.
-
 <!--
 **czaacza/czaacza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
