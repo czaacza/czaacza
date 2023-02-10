@@ -3,6 +3,8 @@ I'm really glad to see you here.
 
 My name is Mateusz, I'm a Software Engineering enthusiast and a second year student of Computer Science at Warsaw University of Technology. 
 
+---
+
 Some information about myself:
 
 - 👨‍🏫 Programming coach in [Gigants of Coding](https://www.giganciprogramowania.edu.pl/)
@@ -14,6 +16,8 @@ Some information about myself:
 - 💡 Social project finalist of [Zwolnieni z Teorii](https://zwolnienizteorii.pl/) Foundation
 - 🏔️ Travel and sports lover 🏂
 - 🇫🇮 Currently living and studying in Finland as a member of an exchange programme
+
+--- 
 
 Please don't hesitate to contact me:
 
