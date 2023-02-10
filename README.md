@@ -6,19 +6,20 @@ My name is Mateusz and I'm Software Engineering enthusiast and a second year stu
 Some information about myself:
 
 - :computer: I develop my own software development and machine learning projects. 
+- 👨‍🏫 Programming coach in [Gigants of Coding](https://www.giganciprogramowania.edu.pl/)
 - 👯 Love colaborating in international student teams
   - [ethereum based control system project with Nokia](https://github.com/dfallow/EthereumProject)
   - [solar radiation estimating app with Smart City Science Club]()
-- 💡 Social project finalist of [Zwolnieni z Teorii](https://zwolnienizteorii.pl/) Foundation
 - 👨‍💻 Freelance website design and creation
-- 👨‍🏫 Programming coach in [Gigants of Coding](https://www.giganciprogramowania.edu.pl/)
+- 💡 Social project finalist of [Zwolnieni z Teorii](https://zwolnienizteorii.pl/) Foundation
 - 🇫🇮 Currently living and studying in Finland
-
 
 Please don't bother to contact me :
 - Email: czarnecki.mateusz.022@gmail.com
 - Discord: czacza#9789
 - [LinkedIn](https://www.linkedin.com/in/mateusz--czarnecki/)
+
+I warmly welcome you to look at my work.
 
 <!--
 **czaacza/czaacza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
