@@ -3,7 +3,8 @@ I'm really glad to see you here.
 
 My name is Mateusz and I'm Software Engineering enthusiast and a second year student of Computer Science at Warsaw University of Technology. 
 
-Here is some information about myself:
+Some info about myself:
+
 - :computer: I develop my own software development projects. ([web-dev](https://github.com/czaacza/Web-Development-Projects), [android](https://github.com/czaacza/Android-Souvenir-App), [java](https://github.com/czaacza/Path-Finder) projects) 
 - 👯 Love colaborating in international student teams
   - [ethereum based control system project with Nokia](https://github.com/dfallow/EthereumProject)
