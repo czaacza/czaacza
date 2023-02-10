@@ -1,8 +1,19 @@
 ### Hi there 👋
 
-I am a programming enthusiast and second year student of Informatics at Warsaw University of Technology. I love what I do and that's why you can find a lot of my own projects here :sunglasses:
+I'm really glad you visited my profile. 
 
-I warmly welcome you to look into my work.
+My name is Mateusz and I'm Software Engineering enthusiast and a second year student of Computer Science at Warsaw University of Technology. I love what I do and that's why you can find a lot of my own projects here :sunglasses:
+
+Here is some information about myself:
+- :computer: I develop my own software development projects. ([web-dev](https://github.com/czaacza/Web-Development-Projects), [android](https://github.com/czaacza/Android-Souvenir-App), [java](https://github.com/czaacza/Path-Finder) projects) 
+- 👯 Love colaborating in international student teams
+  - [ethereum based control system project with Nokia](https://github.com/dfallow/EthereumProject)
+  - [solar radiation estimating app with Smart City Science Club]()
+- 💡 Social project finalist of [Zwolnieni z Teorii](https://zwolnienizteorii.pl/) Foundation
+- 👨‍💻 Freelance website design and creation
+- 👨‍🏫 Programming coach in [Gigants of Coding](https://www.giganciprogramowania.edu.pl/)
+- 🇫🇮 Currently living and studying in Finland
+
 
 Please don't bother to contact me :
 - Email: czarnecki.mateusz.022@gmail.com
