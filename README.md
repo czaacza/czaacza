@@ -12,6 +12,7 @@ Some information about myself:
   - [solar radiation estimating app with Smart City Science Club]()
 - 👨‍💻 Freelance website design and creation
 - 💡 Social project finalist of [Zwolnieni z Teorii](https://zwolnienizteorii.pl/) Foundation
+- 🏔️ Sports and travel lover 🏂
 - 🇫🇮 Currently living and studying in Finland as a member of an exchange programme
 
 Please don't bother to contact me :
