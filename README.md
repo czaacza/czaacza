@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a programming enthusiast and second year student of Informatics at Warsaw University of Technology. I love what I do and that's why you can find a lot of my own projects here :sunglasses:
+
+I warmly welcome you to look into my work.
+
+Please don't bother to contact me :
+- Email: czarnecki.mateusz.022@gmail.com
+- Discord: czacza#9789
+
 <!--
 **czaacza/czaacza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
