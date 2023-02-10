@@ -5,7 +5,7 @@ My name is Mateusz and I'm Software Engineering enthusiast and a second year stu
 
 Some info about myself:
 
-- :computer: I develop my own software development projects. ([web-dev](https://github.com/czaacza/Web-Development-Projects), [android](https://github.com/czaacza/Android-Souvenir-App), [java](https://github.com/czaacza/Path-Finder) projects) 
+- :computer: I develop my own software development and machine learning projects. 
 - 👯 Love colaborating in international student teams
   - [ethereum based control system project with Nokia](https://github.com/dfallow/EthereumProject)
   - [solar radiation estimating app with Smart City Science Club]()
