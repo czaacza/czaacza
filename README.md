@@ -3,7 +3,7 @@ I'm really glad to see you here.
 
 My name is Mateusz and I'm Software Engineering enthusiast and a second year student of Computer Science at Warsaw University of Technology. 
 
-Some info about myself:
+Some information about myself:
 
 - :computer: I develop my own software development and machine learning projects. 
 - 👯 Love colaborating in international student teams
