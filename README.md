@@ -5,14 +5,14 @@ My name is Mateusz and I'm Software Engineering enthusiast and a second year stu
 
 Some information about myself:
 
-- :computer: I develop my own software development and machine learning projects. 
 - 👨‍🏫 Programming coach in [Gigants of Coding](https://www.giganciprogramowania.edu.pl/)
+- :computer: I develop my own software development and machine learning projects
 - 👯 Love colaborating in international student teams
   - [ethereum based control system project with Nokia](https://github.com/dfallow/EthereumProject)
   - [solar radiation estimating app with Smart City Science Club]()
 - 👨‍💻 Freelance website design and creation
 - 💡 Social project finalist of [Zwolnieni z Teorii](https://zwolnienizteorii.pl/) Foundation
-- 🏔️ Sports and travel lover 🏂
+- 🏔️ Travel and sports lover 🏂
 - 🇫🇮 Currently living and studying in Finland as a member of an exchange programme
 
 Please don't bother to contact me :
