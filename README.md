@@ -17,6 +17,7 @@ Here is some information about myself:
 Please don't bother to contact me :
 - Email: czarnecki.mateusz.022@gmail.com
 - Discord: czacza#9789
+- [LinkedIn](https://www.linkedin.com/in/mateusz--czarnecki/)
 
 <!--
 **czaacza/czaacza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
