@@ -1,6 +1,5 @@
-### Hi there 👋
-
-I'm really glad you visited my profile. 
+### Hi there 👋 
+I'm really glad to see you here. 
 
 My name is Mateusz and I'm Software Engineering enthusiast and a second year student of Computer Science at Warsaw University of Technology. I love what I do and that's why you can find a lot of my own projects here :sunglasses:
 
