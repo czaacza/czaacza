@@ -15,7 +15,6 @@ Some information about myself:
 - 🏔️ Travel and sports lover 🏂
 - 🇫🇮 Currently living and studying in Finland as a member of an exchange programme
 
-Please don't bother to contact me :
 - czarnecki.mateusz.022@gmail.com
 - Discord: czacza#9789
 - [LinkedIn](https://www.linkedin.com/in/mateusz--czarnecki/)
