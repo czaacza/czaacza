@@ -25,7 +25,7 @@ Some information about myself:
 
 --- 
 
-Please don't hesitate to contact me:
+I'm always happy to connect with other developers and technology enthusiasts. If you'd like to get in touch, feel free to reach out to me.
 
 - czarnecki.mateusz.022@gmail.com
 - Discord: czacza#9789
