@@ -10,7 +10,8 @@ Some information about myself:
 - 👨‍🏫 Programming coach in [Gigants of Coding](https://www.giganciprogramowania.edu.pl/)
 
 - 👯 Love colaborating in international student teams
-  
+  - [ethereum based control system project with Nokia](https://github.com/dfallow/EthereumProject/wiki)
+  - [solar radiation estimating app with Smart City Science Club](https://github.com/czaacza/solar-estimator)  
   
 - 👨‍💻 Freelance website design and creation
 
