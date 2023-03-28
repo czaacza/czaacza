@@ -6,12 +6,12 @@ I'm a Software Engineering enthusiast and a second year student of Computer Scie
 
 Some information about myself:
 
-- 👨‍🏫 Programming coach in [Gigants of Coding](https://www.giganciprogramowania.edu.pl/)
 - 👯 Love colaborating in international student teams
   - [ethereum based control system project with Nokia](https://github.com/dfallow/EthereumProject/wiki)
   - [solar radiation estimating app with Smart City Science Club](https://github.com/czaacza/solar-estimator)   
    
 - 👨‍💻 Freelance website design and creation
+- 👨‍🏫 Programming coach in [Gigants of Coding](https://www.giganciprogramowania.edu.pl/)
 - 💡 Social project finalist of [Zwolnieni z Teorii](https://zwolnienizteorii.pl/) Foundation
 - 🏔️ Travel and sports lover 🏂
 - 🇫🇮 Currently living and studying in Finland as a member of an exchange programme
