@@ -12,7 +12,6 @@ Some information about myself:
    
 - 👨‍💻 Freelance website design and creation
 - 👨‍🏫 Programming coach in [Gigants of Coding](https://www.giganciprogramowania.edu.pl/)
-- 💡 Social project finalist of [Zwolnieni z Teorii](https://zwolnienizteorii.pl/) Foundation
 - 🏔️ Travel and sports lover 🏂
 - 🇫🇮 Currently living and studying in Finland as a member of an exchange programme
 
