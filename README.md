@@ -13,7 +13,7 @@ Some information about myself:
 - 👨‍💻 Freelance website design and creation
 - 👨‍🏫 Programming coach in [Gigants of Coding](https://www.giganciprogramowania.edu.pl/)
 - 🏔️ Travel and sports lover 🏂
-- 🇫🇮 Currently living and studying in Finland as a member of an exchange programme
+- 🇫🇮 Currently living and studying in Finland as a member of an exchange program
 
 --- 
 
