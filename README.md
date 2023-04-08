@@ -1,4 +1,4 @@
-### Hi there, I'm Mateusz! 👋
+### Hi there, 👋
 
 I'm a Software Engineering enthusiast and a second year student of Computer Science at Warsaw University of Technology. I'm passionate about coding and always eager to learn new technologies and programming languages. Currently, I'm focusing on **web development** and **machine learning.**
 
