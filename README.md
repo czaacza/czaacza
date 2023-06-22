@@ -9,7 +9,7 @@ Some information about myself:
 - 🌏 Love colaborating in international teams
   - 🇹🇼 [internship in AI Application & Platform Department at TSMC](https://www.linkedin.com/feed/update/urn:li:activity:7076923812839047171/) in Hsinchu, Taiwan
   - 🇫🇮 [ethereum based control system project with Nokia](https://github.com/dfallow/EthereumProject/wiki) in Helsinki, Finland
-  - [solar radiation estimating app with Smart City Science Club](https://github.com/czaacza/solar-estimator)   
+  - 🇵🇱 [solar radiation estimating app with Smart City Science Club](https://github.com/czaacza/solar-estimator)   
    
 - 👨‍💻 Freelance website design and creation
 - 👨‍🏫 Programming coach in [Gigants of Coding](https://www.giganciprogramowania.edu.pl/)
