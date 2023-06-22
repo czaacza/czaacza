@@ -6,7 +6,8 @@ I'm a Software Engineering enthusiast and a second year student of Computer Scie
 
 Some information about myself:
 
-- 👯 Love colaborating in international student teams
+- 👯 Love colaborating in international teams
+  - internship in TSMC in Hsinchu, Taiwan
   - [ethereum based control system project with Nokia](https://github.com/dfallow/EthereumProject/wiki)
   - [solar radiation estimating app with Smart City Science Club](https://github.com/czaacza/solar-estimator)   
    
