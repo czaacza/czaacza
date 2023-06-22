@@ -7,7 +7,7 @@ I'm a Software Engineering enthusiast and a second year student of Computer Scie
 Some information about myself:
 
 - 👯 Love colaborating in international teams
-  - [internship in AI Application & Platform Department in TSMC](https://www.linkedin.com/feed/update/urn:li:activity:7076923812839047171/) in Hsinchu, Taiwan
+  - [internship in AI Application & Platform Department at TSMC](https://www.linkedin.com/feed/update/urn:li:activity:7076923812839047171/) in Hsinchu, Taiwan
   - [ethereum based control system project with Nokia](https://github.com/dfallow/EthereumProject/wiki)
   - [solar radiation estimating app with Smart City Science Club](https://github.com/czaacza/solar-estimator)   
    
