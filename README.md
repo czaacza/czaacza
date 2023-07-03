@@ -11,7 +11,7 @@ Some information about myself:
   - 🇫🇮 [ethereum based control system project with Nokia](https://github.com/dfallow/EthereumProject/wiki) in Helsinki, Finland
   - 🇵🇱 [solar radiation estimating app with Smart City Science Club](https://github.com/czaacza/solar-estimator)   
    
-- 👨‍💻 Freelance website design and creation
+- 👨‍💻 Freelance website/e-commerce design and creation | [take a look at my projects!](https://github.com/czaacza/Web-Development-Projects)
 - 👨‍🏫 Programming coach in [Gigants of Coding](https://www.giganciprogramowania.edu.pl/)
 - 🇹🇼 Currently living and working in Taiwan as a member of TSMC internship program.
 
