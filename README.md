@@ -4,7 +4,7 @@ I'm a Software Engineering enthusiast and a second year student of Computer Scie
 
 ---
 
-Some information about myself
+Some information about myself:
 
 - 🌏 Love colaborating in international teams
   - 🇹🇼 [internship in AI Application & Platform Department at TSMC](https://www.linkedin.com/feed/update/urn:li:activity:7076923812839047171/) in Hsinchu, Taiwan
