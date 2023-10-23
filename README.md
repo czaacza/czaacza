@@ -2,6 +2,8 @@
 
 I'm a Software Engineering enthusiast and a second year student of Computer Science at Warsaw University of Technology. Passionate about coding and always eager to learn new technologies and programming languages. Currently, I'm focusing on **software development** and **machine learning.**
 
+[view my cv!](https://github.com/czaacza/cv/blob/master/mateusz-czarnecki-cv.pdf)
+
 ---
 
 Some information about myself:
@@ -13,7 +15,7 @@ Some information about myself:
    
 - 👨‍💻 Freelance website/e-commerce design and creation | [take a look at my web-dev projects!](https://github.com/czaacza/Web-Development-Projects)
 - 👨‍🏫 Programming coach in [Gigants of Coding](https://www.giganciprogramowania.edu.pl/)
-- 🇹🇼 Currently living and working in Taiwan as a member of TSMC internship program.
+- 🇵🇱 Currently living and working in Warsaw, Poland
 
 --- 
 
