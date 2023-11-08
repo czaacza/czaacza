@@ -2,7 +2,7 @@
 
 I'm a Software Engineering enthusiast and a second year student of Computer Science at Warsaw University of Technology. Passionate about coding and always eager to learn new technologies and programming languages. Currently, I'm focusing on **software development** and **machine learning.**
 
-[view my cv!](https://github.com/czaacza/cv/blob/master/mateusz-czarnecki-cv.pdf)
+[view my cv](https://github.com/czaacza/cv/blob/master/mateusz-czarnecki-cv.pdf)
 
 ---
 
