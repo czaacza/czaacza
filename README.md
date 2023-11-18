@@ -12,7 +12,6 @@ Some information about myself:
   - 🇵🇱 [solar radiation estimating app with Smart City Science Club](https://github.com/czaacza/solar-estimator)   
    
 - 👨‍💻 Freelance website/e-commerce design and creation | [take a look at my web-dev projects!](https://github.com/czaacza/Web-Development-Projects)
-- 👨‍🏫 Programming coach in [Gigants of Coding](https://www.giganciprogramowania.edu.pl/)
 - 🇵🇱 Currently living and working in Warsaw, Poland
 
 --- 
