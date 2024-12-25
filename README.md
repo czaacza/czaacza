@@ -2,7 +2,7 @@ Software Engineering enthusiast and a second year student of Computer Science at
 
 [view my portfolio](https://czaacza.github.io/)
 
-[view my cv](https://github.com/czaacza/cv/blob/master/mateusz-czarnecki-cv.pdf)
+[view my resume](https://github.com/czaacza/cv/blob/master/mateusz-czarnecki-cv.pdf)
 
 ---
 
