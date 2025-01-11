@@ -4,11 +4,12 @@ Software Engineering enthusiast and a second year student of Computer Science at
 
 [view my resume](https://github.com/czaacza/cv/blob/master/mateusz-czarnecki-cv.pdf)
 
+<!--- 
 ---
 
 Some information about myself:
 
-<!--- 🌏 Love colaborating in international teams
+🌏 Love colaborating in international teams
   - 🇹🇼 [internship in AI Application & Platform Department at TSMC](https://www.linkedin.com/feed/update/urn:li:activity:7076923812839047171/) in Hsinchu, Taiwan
    - 🇫🇮 [ethereum based control system project with Nokia](https://github.com/dfallow/EthereumProject/wiki) in Helsinki, Finland 
   - 🇵🇱 [solar radiation estimating app with Smart City Science Club](https://github.com/czaacza/solar-estimator)   
