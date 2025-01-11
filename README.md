@@ -8,13 +8,13 @@ Software Engineering enthusiast and a second year student of Computer Science at
 
 Some information about myself:
 
-- 🌏 Love colaborating in international teams
+<!--- 🌏 Love colaborating in international teams
   - 🇹🇼 [internship in AI Application & Platform Department at TSMC](https://www.linkedin.com/feed/update/urn:li:activity:7076923812839047171/) in Hsinchu, Taiwan
-  <!-- - 🇫🇮 [ethereum based control system project with Nokia](https://github.com/dfallow/EthereumProject/wiki) in Helsinki, Finland -->
+   - 🇫🇮 [ethereum based control system project with Nokia](https://github.com/dfallow/EthereumProject/wiki) in Helsinki, Finland 
   - 🇵🇱 [solar radiation estimating app with Smart City Science Club](https://github.com/czaacza/solar-estimator)   
    
 - 👨‍💻 Freelance website/e-commerce design and creation | [take a look at my web-dev projects!](https://github.com/czaacza/Web-Development-Projects)
-- 🇵🇱 Currently living and working in Warsaw, Poland
+- 🇵🇱 Currently living and working in Warsaw, Poland -->
 
 --- 
 
