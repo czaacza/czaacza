@@ -1,5 +1,3 @@
-Software Engineering enthusiast and a second year student of Computer Science at Warsaw University of Technology. Passionate about solving complex problems and always eager to learn new technologies.
-
 [view my portfolio](https://czaacza.github.io/)
 
 [view my resume](https://github.com/czaacza/cv)
