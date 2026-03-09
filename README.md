@@ -1,7 +1,6 @@
 If you'd like to get in touch, feel free to reach out to me.
 
 - czarnecki.mateusz.022@gmail.com
-- Discord: czacza#9789
 - [LinkedIn](https://www.linkedin.com/in/mateusz--czarnecki/)
 
 <!--
