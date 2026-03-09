@@ -1,22 +1,3 @@
-[view my portfolio](https://czaacza.github.io/)
-
-[view my resume](https://github.com/czaacza/cv)
-
-<!--- 
----
-
-Some information about myself:
-
-🌏 Love colaborating in international teams
-  - 🇹🇼 [internship in AI Application & Platform Department at TSMC](https://www.linkedin.com/feed/update/urn:li:activity:7076923812839047171/) in Hsinchu, Taiwan
-   - 🇫🇮 [ethereum based control system project with Nokia](https://github.com/dfallow/EthereumProject/wiki) in Helsinki, Finland 
-  - 🇵🇱 [solar radiation estimating app with Smart City Science Club](https://github.com/czaacza/solar-estimator)   
-   
-- 👨‍💻 Freelance website/e-commerce design and creation | [take a look at my web-dev projects!](https://github.com/czaacza/Web-Development-Projects)
-- 🇵🇱 Currently living and working in Warsaw, Poland -->
-
---- 
-
 If you'd like to get in touch, feel free to reach out to me.
 
 - czarnecki.mateusz.022@gmail.com
